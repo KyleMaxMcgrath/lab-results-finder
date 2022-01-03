@@ -1,0 +1,9 @@
+.NavBar {
+    width: auto;
+    text-align: left;
+    justify-content: left;
+}
+
+.active {
+    color: rgba(76, 0, 255, 0.623);
+}

@@ -1,0 +1,10 @@
+.SearchBar {
+    margin-top: 5px;
+    max-width: 250px;
+    margin: auto;
+}
+
+.SearchBar-Input {
+    margin: 5px;
+    height: 45px;
+}
